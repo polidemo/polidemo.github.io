@@ -1,0 +1,4 @@
+baseURL = "polidemo.gitpages.io"
+languageCode = "en-us"
+title = "Polidemo"
+theme = "book"
